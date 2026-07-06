@@ -24,7 +24,7 @@ const columns = [
   {
     heading: "Connect",
     links: [
-      { label: "GitHub", href: "https://github.com/aliasgarsogiawala" },
+      { label: "GitHub", href: "https://github.com/MohanChippala123" },
       { label: "LinkedIn", href: "https://linkedin.com/company/techtics" },
       { label: "mohan0512vittal@gmail.com", href: "mailto:mohan0512vittal@gmail.com" },
       { label: "+1 (704) 490-0265", href: "tel:+17044900265" },
