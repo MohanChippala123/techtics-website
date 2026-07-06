@@ -24,7 +24,7 @@ const defaultFAQs: FAQItem[] = [
     id: '2',
     question: 'How much will it cost?',
     answer:
-      'Every service has a published starting rate - websites from $2,500, SaaS platforms from $1,500, SEO from $500. After a 30-minute scope call you receive a fixed quote that only changes if the scope does. Larger projects are split into milestone payments.',
+      'Every service has a published starting rate - websites from $200, SaaS platforms from $150, SEO from $50. After a 30-minute scope call you receive a fixed quote that only changes if the scope does. Larger projects are split into milestone payments.',
   },
   {
     id: '3',

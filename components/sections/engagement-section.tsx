@@ -85,7 +85,7 @@ export function EngagementSection() {
             </div>
             <p className="mt-4 text-xs leading-relaxed text-muted-foreground">
               Bundled and enterprise scopes are quoted individually. Milestone
-              schedules available on projects above $5,000.
+              schedules available on projects above $500.
             </p>
           </Reveal>
         </div>

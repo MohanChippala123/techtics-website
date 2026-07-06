@@ -1,10 +1,10 @@
 export const servicePricing = {
-  "Website Development": 2500,
-  "SaaS Solutions": 1500,
-  "AI/ML Models": 2500,
-  "SEO Services": 500,
-  "Dashboard Templates": 500,
-  "E-Visiting Cards": 200,
+  "Website Development": 200,
+  "SaaS Solutions": 150,
+  "AI/ML Models": 200,
+  "SEO Services": 50,
+  "Dashboard Templates": 50,
+  "E-Visiting Cards": 20,
 } as const
 
 export type ServiceName = keyof typeof servicePricing

@@ -12,10 +12,10 @@ export async function initializeDatabase() {
       { name: "Dashboard Templates", description: "Data visualization dashboards" },
     ]
     const defaultPricing = [
-      { name: "Website Development", price: 2500, currency: "USD" },
-      { name: "E-Visiting Card", price: 200, currency: "USD" },
-      { name: "Dashboard Template", price: 500, currency: "USD" },
-      { name: "SEO Services", price: 500, currency: "USD" },
+      { name: "Website Development", price: 200, currency: "USD" },
+      { name: "E-Visiting Card", price: 20, currency: "USD" },
+      { name: "Dashboard Template", price: 50, currency: "USD" },
+      { name: "SEO Services", price: 50, currency: "USD" },
     ]
     await convex.mutation("data:initialize", {
       adminKey: adminKey(),

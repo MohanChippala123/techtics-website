@@ -213,7 +213,7 @@ export default function StartProjectPage() {
                   <Input
                     id="sp-budget"
                     name="budget"
-                    placeholder="e.g., 5,000 – 15,000"
+                    placeholder="e.g., 200 – 2,000"
                     value={formData.budget}
                     onChange={handleChange}
                     disabled={isSubmitting}
